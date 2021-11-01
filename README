@@ -1,0 +1,62 @@
+Final (Final Submission): Isaiah Thomas
+
+Little bowling alley where you can throw some balls
+
+WARNING-- YOU START FACING AWAY FROM THE LANES
+
+Key bindings
+
+ FIRST PERSON CONTROLS
+ w/s: forward back
+ a/d: look left/right
+ 1/2: + - FOV
+ SPACEBAR: Toss ball
+ ENTER: Retrieve Ball
+
+
+ LIGHT
+ []: lower/raise light
+
+ esc: quit
+
+
+
+NOTES:
+
+I've done what I have done. Coming down to the last few days
+I was attempting to get both the ball toss and shadows to work, but I needed to get
+at least one done, so I focused on tossing. And I couldn't even get that
+100% working. Negative vectors give some strange results still when throwing
+the ball.
+
+For the scope of a final project,
+it was no where near what I was looking for. It is sloppy messy code, 
+with no effort into object orienting the code or optimization.  
+Regardless, it looks like a bowling alley and it looks like you throw balls,
+so I am proud of that. I attemped hyperboloid-like column ceiling things,
+but the effort outweighed the reward vs ball toss feature. Getting the ball
+to be visible in front of the camera in fpv was pretty tough as well, not perfected.
+
+I am way more proud of what I have learned though. If I were to implement 
+another project in openGL, im sure it would be helluva lot better. 
+
+I have a recurring thought that I may be
+depressed by the way I struggle with putting motivation 
+into  even interesting material. 
+I absolutely adored the time I spent on this project and 
+learning the material, especially because of your passion on the subject, Vlakkies.
+I just wish my motivation was larger. I remain happy for the most part,
+but motivation is harder to find each day. 
+Maybe its ADHD, who knows, whatever, excuses.
+
+As a final note, I never intended to take this class in the first place, but I needed
+student loans. I am so glad that this was the class I took. I only wish it could
+be in person.
+
+I hope to find the passion you have for learning.
+
+Cheers.
+
+
+
+time taken: not enough
